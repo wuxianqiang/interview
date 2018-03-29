@@ -6,7 +6,7 @@
 3. react和vue有什么区别
 4. express和koa有什么区别
 5. next的执行顺序
-6、手写一个事件委托
+6. 手写一个事件委托
 7. jsonp的实现原理
 8. react的实现原理
 9. URL参数转换为对象
